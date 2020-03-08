@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face{
+    src: url(../font/Montserrat/Montserrat-Regular.ttf);
+    src: url(../font/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Montserrat";
+    font-family: "Sacramento";
+}
+#bra, #shop, #con, #em, #leng{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: "Sacramento";
+    margin: 10px 0px 5px 0px;
+    color: #220e00;
+}
+#lh, #tipsy, #makers, #num, #ihave, #prod, #say{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4e1609;
+}
+.navbar-nav, #search{
+    font-size: 1rem;
+    font-family: "Montserrat";
+}
+#bg{
+    background: #220e00;
+    padding: 20px 0px;
+}
+#car img{
+    height: 800px;
+    width: 100%;
+}
+#car, .card{
+    font-family: 'Courier New', Courier, monospace;
+}
+#theend{
+    font-size: 15px;
+    color: white;
+}
+.footer{
+    background: #220e00;
+    padding: 40px 0px 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#hand{
+    font-size: 2rem;
+    font-family: "Sacramento";
+    color: #4e1609;
+}
+#latest, #br, #leath{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #4e1609;
+}
+#view{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 40px;
+}
+#jumbo, #jumb{
+    background-color: rgba(233, 199, 151, 0.678);
+    margin: 0rem;
+}
+#name, #email, #password, #note, #rem, #message{
+    font-family: 'Courier New', Courier, monospace;
+    color: #4e1609;
+}
+#submit{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding: 10px 525px 10px 525px;
+}
